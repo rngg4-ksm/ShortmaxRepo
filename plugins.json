@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ShortMax",
+    "url": "https://raw.githubusercontent.com/rngg4-ksm/ShortmaxRepo/main/ShortMaxProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "language": "id",
+    "authors": ["rngg4-ksm"],
+    "description": "ShortMax drama catalog"
+  }
+]
