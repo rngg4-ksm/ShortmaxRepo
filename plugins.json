@@ -1,6 +1,7 @@
 [
   {
     "name": "ShortMax",
+    "internalName": "ShortMaxProvider",
     "url": "https://raw.githubusercontent.com/rngg4-ksm/ShortmaxRepo/build/ShortMaxProvider.cs3",
     "status": 1,
     "version": 1,
