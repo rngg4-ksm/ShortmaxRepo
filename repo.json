@@ -1,0 +1,8 @@
+{
+  "name": "ShortMax Repository",
+  "description": "ShortMax drama catalog",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/rngg4-ksm/ShortmaxRepo/main/plugins.json"
+  ]
+}
